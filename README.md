@@ -23,7 +23,7 @@ Create taskmanagement.client/.env.local:
 
 Seed/Admin
 On startup, creates admin if none exists:
-Default: username admin, email admin@taskmanagement.com, password admin123
+Default: username admin, email admin@example.com, password admin123
 
 Promote a user (int role: USER=0, ADMIN=1):
 
@@ -53,11 +53,11 @@ Notifications for create/update/delete (bottom-left)
 
 State Management
 Redux Toolkit slices: auth, tasks, ui (notifications)
-Loading/error states and optimistic UX where appropriate
+Loading/error states
 
 Troubleshooting
-401 Unauthorized: re-login to refresh token; ensure Issuer/Audience match
-Enum errors (22P02/42804): ensure DB enums match C# names; app maps enums via Npgsql
+401 Unauthorized: re-login to refresh token;
+Enum errors (22P02/42804): ensure DB enums match C# names; app maps enums 
 Table/column not found: verify lowercase names and mappings in ApplicationDbContext
 
 Notes
