@@ -1,0 +1,12 @@
+<Project>
+  <Import Project="../buildMultiTargeting/TaskManagement.Server.props" />
+</Project>
+
+
+
+
+
+
+
+
+

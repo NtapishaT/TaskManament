@@ -1,0 +1,12 @@
+<Project>
+  <Import Project="../build/TaskManagement.Server.props" />
+</Project>
+
+
+
+
+
+
+
+
+

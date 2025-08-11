@@ -1,0 +1,259 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Jomo Lumina - P\\Documents\\Development\\TaskManagement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{851B644B-F866-4782-9E20-76D564DFA9D5}|TaskManagement.Server\\TaskManagement.Server.csproj|c:\\users\\jomo lumina - p\\documents\\development\\taskmanagement\\taskmanagement.server\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{851B644B-F866-4782-9E20-76D564DFA9D5}|TaskManagement.Server\\TaskManagement.Server.csproj|solutionrelative:taskmanagement.server\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1F7E425-E4FB-49E1-9F99-F5EFDF5DE5E5}|taskmanagement.client\\taskmanagement.client.esproj|c:\\users\\jomo lumina - p\\documents\\development\\taskmanagement\\taskmanagement.client\\src\\components\\registerform.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{E1F7E425-E4FB-49E1-9F99-F5EFDF5DE5E5}|taskmanagement.client\\taskmanagement.client.esproj|solutionrelative:taskmanagement.client\\src\\components\\registerform.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{851B644B-F866-4782-9E20-76D564DFA9D5}|TaskManagement.Server\\TaskManagement.Server.csproj|c:\\users\\jomo lumina - p\\documents\\development\\taskmanagement\\taskmanagement.server\\controllers\\taskscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{851B644B-F866-4782-9E20-76D564DFA9D5}|TaskManagement.Server\\TaskManagement.Server.csproj|solutionrelative:taskmanagement.server\\controllers\\taskscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1F7E425-E4FB-49E1-9F99-F5EFDF5DE5E5}|taskmanagement.client\\taskmanagement.client.esproj|c:\\users\\jomo lumina - p\\documents\\development\\taskmanagement\\taskmanagement.client\\src\\services\\api.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{E1F7E425-E4FB-49E1-9F99-F5EFDF5DE5E5}|taskmanagement.client\\taskmanagement.client.esproj|solutionrelative:taskmanagement.client\\src\\services\\api.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{851B644B-F866-4782-9E20-76D564DFA9D5}|TaskManagement.Server\\TaskManagement.Server.csproj|c:\\users\\jomo lumina - p\\documents\\development\\taskmanagement\\taskmanagement.server\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{851B644B-F866-4782-9E20-76D564DFA9D5}|TaskManagement.Server\\TaskManagement.Server.csproj|solutionrelative:taskmanagement.server\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{851B644B-F866-4782-9E20-76D564DFA9D5}|TaskManagement.Server\\TaskManagement.Server.csproj|c:\\users\\jomo lumina - p\\documents\\development\\taskmanagement\\taskmanagement.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{851B644B-F866-4782-9E20-76D564DFA9D5}|TaskManagement.Server\\TaskManagement.Server.csproj|solutionrelative:taskmanagement.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{851B644B-F866-4782-9E20-76D564DFA9D5}|TaskManagement.Server\\TaskManagement.Server.csproj|c:\\users\\jomo lumina - p\\documents\\development\\taskmanagement\\taskmanagement.server\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{851B644B-F866-4782-9E20-76D564DFA9D5}|TaskManagement.Server\\TaskManagement.Server.csproj|solutionrelative:taskmanagement.server\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{851B644B-F866-4782-9E20-76D564DFA9D5}|TaskManagement.Server\\TaskManagement.Server.csproj|c:\\users\\jomo lumina - p\\documents\\development\\taskmanagement\\taskmanagement.server\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{851B644B-F866-4782-9E20-76D564DFA9D5}|TaskManagement.Server\\TaskManagement.Server.csproj|solutionrelative:taskmanagement.server\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{851B644B-F866-4782-9E20-76D564DFA9D5}|TaskManagement.Server\\TaskManagement.Server.csproj|c:\\users\\jomo lumina - p\\documents\\development\\taskmanagement\\taskmanagement.server\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{851B644B-F866-4782-9E20-76D564DFA9D5}|TaskManagement.Server\\TaskManagement.Server.csproj|solutionrelative:taskmanagement.server\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{851B644B-F866-4782-9E20-76D564DFA9D5}|TaskManagement.Server\\TaskManagement.Server.csproj|c:\\users\\jomo lumina - p\\documents\\development\\taskmanagement\\taskmanagement.server\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{851B644B-F866-4782-9E20-76D564DFA9D5}|TaskManagement.Server\\TaskManagement.Server.csproj|solutionrelative:taskmanagement.server\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1F7E425-E4FB-49E1-9F99-F5EFDF5DE5E5}|taskmanagement.client\\taskmanagement.client.esproj|c:\\users\\jomo lumina - p\\documents\\development\\taskmanagement\\taskmanagement.client\\src\\components\\loginform.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{E1F7E425-E4FB-49E1-9F99-F5EFDF5DE5E5}|taskmanagement.client\\taskmanagement.client.esproj|solutionrelative:taskmanagement.client\\src\\components\\loginform.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{851B644B-F866-4782-9E20-76D564DFA9D5}|TaskManagement.Server\\TaskManagement.Server.csproj|c:\\users\\jomo lumina - p\\documents\\development\\taskmanagement\\taskmanagement.server\\models\\task.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{851B644B-F866-4782-9E20-76D564DFA9D5}|TaskManagement.Server\\TaskManagement.Server.csproj|solutionrelative:taskmanagement.server\\models\\task.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1F7E425-E4FB-49E1-9F99-F5EFDF5DE5E5}|taskmanagement.client\\taskmanagement.client.esproj|c:\\users\\jomo lumina - p\\documents\\development\\taskmanagement\\taskmanagement.client\\src\\app.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}|",
+      "RelativeMoniker": "D:0:0:{E1F7E425-E4FB-49E1-9F99-F5EFDF5DE5E5}|taskmanagement.client\\taskmanagement.client.esproj|solutionrelative:taskmanagement.client\\src\\app.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "api.ts",
+              "DocumentMoniker": "C:\\Users\\Jomo Lumina - P\\Documents\\Development\\TaskManagement\\taskmanagement.client\\src\\services\\api.ts",
+              "RelativeDocumentMoniker": "taskmanagement.client\\src\\services\\api.ts",
+              "ToolTip": "C:\\Users\\Jomo Lumina - P\\Documents\\Development\\TaskManagement\\taskmanagement.client\\src\\services\\api.ts",
+              "RelativeToolTip": "taskmanagement.client\\src\\services\\api.ts",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAiwEsAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-08-10T21:56:14.059Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\Jomo Lumina - P\\Documents\\Development\\TaskManagement\\TaskManagement.Server\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "TaskManagement.Server\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\Jomo Lumina - P\\Documents\\Development\\TaskManagement\\TaskManagement.Server\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "TaskManagement.Server\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAcwBsAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-10T20:19:08.633Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\Users\\Jomo Lumina - P\\Documents\\Development\\TaskManagement\\TaskManagement.Server\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "TaskManagement.Server\\Controllers\\UsersController.cs",
+              "ToolTip": "C:\\Users\\Jomo Lumina - P\\Documents\\Development\\TaskManagement\\TaskManagement.Server\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "TaskManagement.Server\\Controllers\\UsersController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-10T19:58:30.819Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Jomo Lumina - P\\Documents\\Development\\TaskManagement\\TaskManagement.Server\\Models\\User.cs",
+              "RelativeDocumentMoniker": "TaskManagement.Server\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\Jomo Lumina - P\\Documents\\Development\\TaskManagement\\TaskManagement.Server\\Models\\User.cs",
+              "RelativeToolTip": "TaskManagement.Server\\Models\\User.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwBQAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-10T15:40:54.072Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Jomo Lumina - P\\Documents\\Development\\TaskManagement\\TaskManagement.Server\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "TaskManagement.Server\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\Jomo Lumina - P\\Documents\\Development\\TaskManagement\\TaskManagement.Server\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "TaskManagement.Server\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAFkAAAAAAAAAAAAmwGYAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-09T09:23:45.616Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TasksController.cs",
+              "DocumentMoniker": "C:\\Users\\Jomo Lumina - P\\Documents\\Development\\TaskManagement\\TaskManagement.Server\\Controllers\\TasksController.cs",
+              "RelativeDocumentMoniker": "TaskManagement.Server\\Controllers\\TasksController.cs",
+              "ToolTip": "C:\\Users\\Jomo Lumina - P\\Documents\\Development\\TaskManagement\\TaskManagement.Server\\Controllers\\TasksController.cs",
+              "RelativeToolTip": "TaskManagement.Server\\Controllers\\TasksController.cs",
+              "ViewState": "AgIAAHMAAAAAAAAAAAAmwGsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-09T09:15:31.222Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RegisterForm.tsx",
+              "DocumentMoniker": "C:\\Users\\Jomo Lumina - P\\Documents\\Development\\TaskManagement\\taskmanagement.client\\src\\components\\RegisterForm.tsx",
+              "RelativeDocumentMoniker": "taskmanagement.client\\src\\components\\RegisterForm.tsx",
+              "ToolTip": "C:\\Users\\Jomo Lumina - P\\Documents\\Development\\TaskManagement\\taskmanagement.client\\src\\components\\RegisterForm.tsx",
+              "RelativeToolTip": "taskmanagement.client\\src\\components\\RegisterForm.tsx",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAiwBQAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-08-10T11:20:25.085Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\Users\\Jomo Lumina - P\\Documents\\Development\\TaskManagement\\TaskManagement.Server\\Services\\AuthService.cs",
+              "RelativeDocumentMoniker": "TaskManagement.Server\\Services\\AuthService.cs",
+              "ToolTip": "C:\\Users\\Jomo Lumina - P\\Documents\\Development\\TaskManagement\\TaskManagement.Server\\Services\\AuthService.cs",
+              "RelativeToolTip": "TaskManagement.Server\\Services\\AuthService.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAIAwwEMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-10T13:23:19.233Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Jomo Lumina - P\\Documents\\Development\\TaskManagement\\TaskManagement.Server\\Program.cs",
+              "RelativeDocumentMoniker": "TaskManagement.Server\\Program.cs",
+              "ToolTip": "C:\\Users\\Jomo Lumina - P\\Documents\\Development\\TaskManagement\\TaskManagement.Server\\Program.cs",
+              "RelativeToolTip": "TaskManagement.Server\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAADwvxoAAABlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-10T16:31:35.634Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Task.cs",
+              "DocumentMoniker": "C:\\Users\\Jomo Lumina - P\\Documents\\Development\\TaskManagement\\TaskManagement.Server\\Models\\Task.cs",
+              "RelativeDocumentMoniker": "TaskManagement.Server\\Models\\Task.cs",
+              "ToolTip": "C:\\Users\\Jomo Lumina - P\\Documents\\Development\\TaskManagement\\TaskManagement.Server\\Models\\Task.cs",
+              "RelativeToolTip": "TaskManagement.Server\\Models\\Task.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAADwvysAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-09T09:24:38.54Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "LoginForm.tsx",
+              "DocumentMoniker": "C:\\Users\\Jomo Lumina - P\\Documents\\Development\\TaskManagement\\taskmanagement.client\\src\\components\\LoginForm.tsx",
+              "RelativeDocumentMoniker": "taskmanagement.client\\src\\components\\LoginForm.tsx",
+              "ToolTip": "C:\\Users\\Jomo Lumina - P\\Documents\\Development\\TaskManagement\\taskmanagement.client\\src\\components\\LoginForm.tsx",
+              "RelativeToolTip": "taskmanagement.client\\src\\components\\LoginForm.tsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-08-10T11:11:14.977Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Jomo Lumina - P\\Documents\\Development\\TaskManagement\\TaskManagement.Server\\appsettings.json",
+              "RelativeDocumentMoniker": "TaskManagement.Server\\appsettings.json",
+              "ToolTip": "C:\\Users\\Jomo Lumina - P\\Documents\\Development\\TaskManagement\\TaskManagement.Server\\appsettings.json",
+              "RelativeToolTip": "TaskManagement.Server\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-10T11:25:58.687Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "App.tsx",
+              "DocumentMoniker": "C:\\Users\\Jomo Lumina - P\\Documents\\Development\\TaskManagement\\taskmanagement.client\\src\\App.tsx",
+              "RelativeDocumentMoniker": "taskmanagement.client\\src\\App.tsx",
+              "ToolTip": "C:\\Users\\Jomo Lumina - P\\Documents\\Development\\TaskManagement\\taskmanagement.client\\src\\App.tsx",
+              "RelativeToolTip": "taskmanagement.client\\src\\App.tsx",
+              "ViewState": "AgIAAAMAAAAAAAAAAIBJwAwAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-08-09T08:26:28.377Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

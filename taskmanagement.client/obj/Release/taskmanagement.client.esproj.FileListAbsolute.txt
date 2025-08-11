@@ -1,0 +1,11 @@
+/workspace/taskmanagement.client/obj/Release/taskmanagement.client.esproj.CoreCompileInputs.cache
+
+
+
+
+
+
+
+
+
+
