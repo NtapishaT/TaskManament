@@ -78,7 +78,7 @@ using (var scope = app.Services.CreateScope())
         if (!adminExists)
         {
             var adminUsername = configuration["AdminUser:Username"] ?? Environment.GetEnvironmentVariable("ADMIN_USERNAME") ?? "admin";
-            var adminEmail = configuration["AdminUser:Email"] ?? Environment.GetEnvironmentVariable("ADMIN_EMAIL") ?? "admin@taskmanagement.com";
+            var adminEmail = configuration["AdminUser:Email"] ?? Environment.GetEnvironmentVariable("ADMIN_EMAIL") ?? "admin@example.com";
             var adminPassword = configuration["AdminUser:Password"] ?? Environment.GetEnvironmentVariable("ADMIN_PASSWORD") ?? "admin123";
 
             var adminUser = new User
